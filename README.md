@@ -36,3 +36,9 @@ Number             | Title                                                    | 
 [26](bsip-0026.md) | Refund Order Creation Fee in Originally Paid Asset on Cancel | Abit More | Protocol | Draft
 [27](bsip-0027.md) | Asset Issuer Reclaim Fee Pool Funds                          | Abit More | Protocol | Draft
 [28](bsip-0028.md) | Worker Proposal Improvements                                 | Bill Butler | Protocol | Draft
+[1201](bsip-1201.md) | Op-codes for Confidential Asset operations                 | Chris Sanborn | Protocol      | Draft
+[1202](bsip-1202.md) | Ring signatures for authorization of Stealth transactions  | Chris Sanborn | Protocol      | Draft
+[1203](bsip-1203.md) | Retrieve Stealth UTXO sets by block-height range           | Chris Sanborn | Protocol      | Draft
+[1204](bsip-1204.md) | Blockchain scanning for inbound Stealth transactions       | Chris Sanborn | Protocol      | Draft
+[1205](bsip-1205.md) | Derivation of Stealth Addresses from BIP44/SLIP48 Seeds and Brain Keys | Chris Sanborn | Informational | Draft
+[1206](bsip-1206.md) | Metadata hiding via Garlic Routing and other means         | Chris Sanborn | Informational | Draft
