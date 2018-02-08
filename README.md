@@ -33,9 +33,10 @@ Number             | Title                                                    | 
 [23](bsip-0023.md) | Sharedropping an UIA against an external cryptocurrency distribution snapshot        | Customminer       | Protocol       | Draft
 [24](bsip-0024.md) | Locking Bitshares away as 'Bitshares Influence' for voting privileges on the BTS DEX       | Customminer       | Protocol       | Draft
 [25](bsip-0025.md) | Transaction Flat-Rates with Weighted Rate-Limitation     | Fabian Schuh | Protocol | Draft
-[26](bsip-0026.md) | Refund Order Creation Fee in Originally Paid Asset on Cancel | Abit More | Protocol | Draft
-[27](bsip-0027.md) | Asset Issuer Reclaim Fee Pool Funds                          | Abit More | Protocol | Draft
+[26](bsip-0026.md) | Refund Order Creation Fee in Originally Paid Asset on Cancel | Abit More | Protocol | Accepted
+[27](bsip-0027.md) | Asset Issuer Reclaim Fee Pool Funds                          | Abit More | Protocol | Accepted
 [28](bsip-0028.md) | Worker Proposal Improvements                                 | Bill Butler | Protocol | Draft
+[29](bsip-0029.md) | Asset issue change to require owner authority                | Fabian Schuh | Protocol | Draft
 [1200](bsip-1200.md) | Stealth development, Phase II                              | Chris Sanborn | Informational | Draft
 [1201](bsip-1201.md) | Op-codes for Confidential Asset operations                 | Chris Sanborn | Protocol      | Draft
 [1202](bsip-1202.md) | Ring signatures for authorization of Stealth transactions  | Chris Sanborn | Protocol      | Draft
