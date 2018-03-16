@@ -39,7 +39,7 @@ Number             | Title                                                    | 
 [29](bsip-0029.md) | Asset issue change to require owner authority                | Fabian Schuh | Protocol | Draft
 [1200](bsip-1200.md) | Stealth development, Phase II                              | Chris Sanborn | Informational | Draft
 [1201](bsip-1201.md) | Op-codes for Confidential Asset operations                 | Chris Sanborn | Protocol      | Draft
-[1202](bsip-1202.md) | Ring signatures for authorization of Stealth transactions  | Chris Sanborn | Protocol      | Draft
+[1202](bsip-1202.md) | Ring signatures for untraceability of Stealth transactions | Chris Sanborn | Protocol      | Draft
 [1203](bsip-1203.md) | Retrieve Stealth UTXO sets by block-height range           | Chris Sanborn | Protocol      | Draft
 [1204](bsip-1204.md) | Blockchain scanning for inbound Stealth transactions       | Chris Sanborn | Protocol      | Draft
 [1205](bsip-1205.md) | Derivation of Stealth Addresses from BIP44/SLIP48 Seeds and Brain Keys | Chris Sanborn | Informational | Draft
