@@ -36,7 +36,15 @@ Number             | Title                                                    | 
 [26](bsip-0026.md) | Refund Order Creation Fee in Originally Paid Asset on Cancel | Abit More | Protocol | Accepted
 [27](bsip-0027.md) | Asset Issuer Reclaim Fee Pool Funds                          | Abit More | Protocol | Accepted
 [28](bsip-0028.md) | Worker Proposal Improvements                                 | Bill Butler | Protocol | Draft
-[29](bsip-0029.md) | Asset issue change to require owner authority                | Fabian Schuh | Protocol | Draft
+[29](bsip-0029.md) | Asset issue change to require owner authority                | Fabian Schuh | Protocol | Accepted
+[30](bsip-0030.md) | Always Allow Increasing Collateral Ratio If Debt Not Increased | Abit More | Protocol | Accepted
+[31](bsip-0031.md) | Update Short Position's Margin Call Price After Partially Called Or Settled | Abit More | Protocol | Accepted
+[32](bsip-0032.md) | Always Match Orders At Maker Price                                          | Abit More | Protocol | Accepted
+[33](bsip-0033.md) | Maker Orders With Better Prices Take Precedence                             | Abit More | Protocol | Accepted
+[34](bsip-0034.md) | Always Trigger Margin Call When Call Price Above Or At Price Feed           | Abit More | Protocol | Accepted
+[35](bsip-0035.md) | Mitigate Rounding Issue On Order Matching                                   | Abit More | Protocol | Accepted
+[36](bsip-0036.md) | Remove expired price feeds on maintenance interval                          | oxarbitrage | Protocol | Accepted
+[37](bsip-0037.md) | Allow new asset name to end with a number                                   | oxarbitrage | Protocol | Accepted
 [1200](bsip-1200.md) | Stealth development, Phase II                              | Chris Sanborn | Informational | Draft
 [1201](bsip-1201.md) | Op-codes for Confidential Asset operations                 | Chris Sanborn | Protocol      | Draft
 [1202](bsip-1202.md) | Ring signatures for untraceability of Stealth transactions | Chris Sanborn | Protocol      | Draft
