@@ -48,6 +48,6 @@ Number             | Title                                                    | 
 [1200](bsip-1200.md) | Stealth development, Phase II                              | Chris Sanborn | Informational | Draft
 [1201](bsip-1201.md) | New operations for Confidential Asset (CA) transactions    | Chris Sanborn | Protocol      | Draft
 [1202](bsip-1202.md) | Ring signatures for untraceability of Stealth transactions | Chris Sanborn | Protocol      | Draft
-[1204](bsip-1204.md) | Blockchain scanning for inbound Stealth transactions       | Chris Sanborn | Protocol      | Draft
-[1205](bsip-1205.md) | Deterministic addresses for Stealth wallets                | Chris Sanborn | Informational | Draft
-[1206](bsip-1206.md) | Metadata hiding via Garlic Routing and other means         | Chris Sanborn | Informational | Draft
+[1203](bsip-1203.md) | Blockchain scanning for inbound Stealth transactions       | Chris Sanborn | Protocol      | Draft
+[1204](bsip-1204.md) | Deterministic addresses for Stealth wallets                | Chris Sanborn | Informational | Draft
+[1205](bsip-1205.md) | Metadata hiding via Garlic Routing and other means         | Chris Sanborn | Informational | Draft
